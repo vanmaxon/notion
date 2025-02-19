@@ -35,12 +35,13 @@ export default function Footer(props) {
           )}
           <BeiAnGongAn />
           <span className='no-underline ml-4'>
-            Powered by
+            本站由
             <a
-              href='https://github.com/tangly1024/NotionNext'
+              href='https://yxvm.com/aff.php?aff=711'
               className=' hover:underline'>
-              NotionNext {siteConfig('VERSION')}
+              YXVM
             </a>
+            独家赞助
           </span>
         </div>
       </div>
